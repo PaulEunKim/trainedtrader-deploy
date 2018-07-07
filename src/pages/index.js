@@ -83,16 +83,6 @@ const IndexPage = () => (
         <div className={styles.paragraph}>
           위의 lot size대로 트레이딩 하시는 걸 추천합니다. 여기서 나의 재정 상태는 아주 충분하고 최대한의 RISK를 가지고 싶다, 아니면 금방이라도 내 돈이 다 없어져도 괜찮다 하시는 분들은 위의 lot size에서 2배까지 하셔도 됩니다. 기본적으로 지켜져야 하지만 많은 사람에게 알려지지 않고 실행하지 못하는 내용을 적어보았습니다. 외환거래 혹은 선물 거래는 전문 트레이더에게 체계적으로 배워서 해야 합니다.
         </div>
-        <div className={styles.paragraph}>
-        Matt Kang<br/>
-        Futures and Forex Senior Representative at Cannon Trading Company in Beverly Hills<br/>
-        Former Branch Manager at Kingsview Asset Management<br/>
-        Former Institutional Forex Trader<br/>
-        NFA ID: 0478163<br/>
-        Address: 9301 Wilshire Blvd. Suite #515<br/>
-        Beverly Hills, CA 90210<br/>
-        310-859-9572<br/>
-        </div>
       </div>
     </Container>
 )
